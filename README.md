@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 👋
 
 <!--
 **code1-tester/code1-tester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
