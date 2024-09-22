@@ -15,7 +15,7 @@ For example, the objects in the following images were detected using [mmdetectio
  -------------
 
  Dependencies (Level 3 Heading)
-     python
+ \*python\*
      opencv-python
      tensorflow
      openmmlab
