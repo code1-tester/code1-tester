@@ -1,4 +1,4 @@
-## Welcome! 👋
+## My Project Plan (Level 1 Heading)
 
 <!--
 **code1-tester/code1-tester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
